@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pgu3/A33pJwk7EGOAOelehOII1yyfJLYOfZk1YDwhd/OR9Nj+a2IaV77ftKsCEg1mN83+kgKDfSXDzGQRvvjgA==",
+  "dgSpecHash": "WHCUdilTAxxMMaXTzbESoG+2u6td/wVKXiGrkcnXxmXyybqY8Ft4l2WwxxGc/KT4GqrWW8bMfPq9xRkVMLdJIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\16154\\workspace\\csharp\\gifter\\gifter\\gifter.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\16154\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.5\\microsoft.aspnetcore.authentication.jwtbearer.3.1.5.nupkg.sha512",
     "C:\\Users\\16154\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\16154\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.5\\microsoft.aspnetcore.jsonpatch.3.1.5.nupkg.sha512",
     "C:\\Users\\16154\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.5\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.5.nupkg.sha512",
